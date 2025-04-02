@@ -1,4 +1,5 @@
 Cadastro de Corretores
+
 Este é um sistema de cadastro de corretores imobiliários desenvolvido com PHP, MySQL, HTML, CSS e JavaScript. Ele permite o gerenciamento de corretores, incluindo cadastro, listagem, edição e exclusão de registros.
 
 Funcionalidades
