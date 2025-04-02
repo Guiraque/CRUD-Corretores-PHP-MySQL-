@@ -22,4 +22,4 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 3. Execute o projeto em um servidor local (XAMPP, WAMP, etc.)
 
 Autor
-Desenvolvido por Guilherme Henrique.
+- Desenvolvido por Guilherme Henrique.
